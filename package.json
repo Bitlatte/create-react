@@ -1,0 +1,24 @@
+{
+  "name": "@create/react",
+  "version": "0.1.0",
+  "description": "Create a new React App with React-Router-Dom, React-icons, TypeScript Support, and Vite.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "bin": "./bin/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.40",
+    "@types/unzipper": "^0.10.5",
+    "@typescript-eslint/eslint-plugin": "^5.27.1",
+    "@typescript-eslint/parser": "^5.27.1",
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "unzipper": "^0.10.11"
+  }
+}
