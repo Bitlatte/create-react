@@ -1,13 +1,26 @@
 {
-  "name": "@create/react",
+  "name": "@bitlatte/react",
   "version": "0.1.0",
   "description": "Create a new React App with React-Router-Dom, React-icons, TypeScript Support, and Vite.",
-  "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "lint": "eslint --fix"
   },
   "bin": "./bin/index.js",
-  "license": "MIT",
+  "homepage": "https://github.com/Bitlatte/create-react#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bitlatte/create-react.git"
+  },
+  "bugs": "https://github.com/Bitlatte/create-react/issues",
+  "keywords": [
+    "cli",
+    "react",
+    "utility",
+    "create-react",
+    "tool"
+  ],
+  "license": "MIT-Modern-Variant",
   "devDependencies": {
     "@types/node": "^17.0.40",
     "@types/unzipper": "^0.10.5",
