@@ -1,4 +1,4 @@
-# Create React
+# Bitlatte React
 CLI tool that allows you to quickly setup new react projects.
 Projects come pre configured with TypeScript Support, Vite,
 React Icons, and React Router.
@@ -16,7 +16,7 @@ run the following command replacing \<project_name\> with
 whatever you wish to call your project:
 
 ```sh
-npx @create/react <project_name>
+npx @bitlatte/react <project_name>
 ```
 
 The cli tool will setup your project and give you the next steps
