@@ -21,3 +21,10 @@ npx @bitlatte/react <project_name>
 
 The cli tool will setup your project and give you the next steps
 to get up and running in no time.
+
+## Also Checkout These Projects
+<div align="center">
+  <img width='33%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=create-svelte' />
+  <img width='33%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=create-vue' />
+  <img width='33%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=create-rest' />
+</div>
